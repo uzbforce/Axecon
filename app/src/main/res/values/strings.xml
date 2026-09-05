@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Axecon</string>
+    <string name="accessibility_service_label">Axecon Motion &amp; Button Accessibility Service</string>
+    <string name="accessibility_service_description">Enables motion-controlled cursor and physical button gesture triggers (click, long-press, scroll, navigation, calls, action wheel) for controlling devices with broken touchscreens.</string>
+</resources>

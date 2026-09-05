@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group>
+        <!-- 'A' letter: Modern Bold Geometric Cut -->
+        <!-- Left diagonal & Right diagonal & Crossbar -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M38.5,33.0 L32.0,33.0 L16.5,74.0 L24.5,74.0 L28.2,64.0 L42.3,64.0 L46.0,74.0 L54.0,74.0 Z M30.8,57.0 L35.2,44.5 L39.7,57.0 Z" />
+        
+        <!-- 'x' letter: Modern Geometric Sans-Serif -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M56.0,46.0 L63.8,46.0 L71.5,58.0 L79.2,46.0 L87.0,46.0 L76.0,62.8 L88.0,74.0 L80.2,74.0 L71.5,65.2 L62.8,74.0 L55.0,74.0 L67.0,62.8 Z" />
+    </group>
+</vector>

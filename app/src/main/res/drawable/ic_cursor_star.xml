@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Star Reticle Pointer -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#000000"
+        android:strokeWidth="2.0"
+        android:pathData="M24,2 L27.5,16.5 L42,20 L30.5,29.5 L34,44 L24,36 L14,44 L17.5,29.5 L6,20 L20.5,16.5 Z" />
+    <path
+        android:fillColor="#05FFA1"
+        android:pathData="M24,12 L26,20 L34,22 L27,27 L29,35 L24,30 L19,35 L21,27 L14,22 L22,20 Z" />
+</vector>
